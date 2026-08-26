@@ -29,10 +29,10 @@ pip install PyGithub python-dotenv
 GITHUB_TOKEN=твой_токен
 
 ## Использование
-python main.py <github_username>
+python app.py <github_username>
 
 Пример:
-python main.py octocat
+python app.py octocat
 
 После успешного выполнения рядом со скриптом появится файл octocat.json.
 
